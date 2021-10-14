@@ -1,5 +1,5 @@
 # UIGMBank
-Config files for my GitHub profile.
+
 FINAL PROJECT
 
 Make a simple program using java. Your program must include the following:
