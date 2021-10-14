@@ -3,13 +3,21 @@
 FINAL PROJECT
 
 Make a simple program using java. Your program must include the following:
+
 •	At least 4 classes, not including the test class
+
 •	Encapsulate these, and additional classes
+
 •	Provide at least 2 fields and 2 methods in every class, not including getters or setters
+
 •	An Array or ArrayList
+
 •	The ability to accept user-input at least once. 
+
 •	Always accept user input without crashing.
+
 •	Add at least 2 new concept in java programming (interface, sorting, collection, generic, regex,recursion,jdbc, etc.) 
+
 
 You’re welcome to base your program on any of the following examples or create your own scenario:
 Create game
